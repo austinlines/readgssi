@@ -8,7 +8,7 @@
 ## differently, in which case this script may need to be modified.
 
 # readgssi was originally written as matlab code by
-# Gabe Lewis, Dartmouth College Department of Earth Sciences.
+# Laura Ray PhD, Thayer School of Engineering at Dartmouth College
 # matlab code was adapted for python with permission by
 # Ian Nesbitt, University of Maine School of Earth and Climate Sciences.
 # Copyleft (c) 2017 Ian Nesbitt
